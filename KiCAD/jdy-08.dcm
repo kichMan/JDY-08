@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JDY-08
+D JDY-08 Bluetooth transparent transmission module
+K Bluetooth CC2541 BLE JDY-08
+F datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
