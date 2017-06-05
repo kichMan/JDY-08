@@ -1,3 +1,5 @@
+#JDY-08 Bluetooth transparent transmission module
+
 ## Feature
 * Tested on 3V3
 * Module enter into data transmission mode when it paired.
@@ -21,7 +23,6 @@ Operating mode state current
 ![Sizes pic](https://cdn.rawgit.com/kichMan/JDY-08/0baae211/img/sizes.svg)
 
 ## Pin definition
---------------
 1. VCC Power Supply Power supply 3V or 3.3V
 2. P22
 3. P21
@@ -48,8 +49,6 @@ Operating mode state current
 24. GND Power ground
 
 ## AT Commands
------------
-
 1. AT + RST reset M / S -
 2. AT + BOUD serial port baud rate setting M / S - 115200
 3. AT + HOSTEN Master / Slave Setup M / S - Slave
