@@ -1,4 +1,4 @@
-#JDY-08 Bluetooth transparent transmission module
+# JDY-08 Bluetooth transparent transmission module
 
 ## Feature
 * Tested on 3V3
@@ -19,7 +19,6 @@ Operating mode state current
 * Host observer mode (Sensor) connected / not connected / standby 25mA
 
 ## Dimension, Pin definition
--------------------------
 ![Sizes pic](https://cdn.rawgit.com/kichMan/JDY-08/0baae211/img/sizes.svg)
 
 ## Pin definition
