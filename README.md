@@ -18,7 +18,7 @@ Operating mode state current
 
 ## Dimension, Pin definition
 -------------------------
-![Sizes pic](./img/sizes.svg)
+![Sizes pic](https://raw.githubusercontent.com/kichMan/JDY-08/master/img/sizes.svg)
 
 ## Pin definition
 --------------
