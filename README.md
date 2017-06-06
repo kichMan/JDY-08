@@ -47,7 +47,7 @@ Operating mode state current
 23. RST Resets the hardware reset pin
 24. GND Power ground
 
-## [Resources for develop in KiCAD](https://github.com/kichMan/JDY-08/tree/master/KiCAD)
+## [Resources for develop in KiCAD...](https://github.com/kichMan/JDY-08/tree/master/KiCAD)
 ![BLE preview complete](https://cdn.rawgit.com/kichMan/JDY-08/f78f1562/img/resources_complete.png)
 
 ## AT Commands
