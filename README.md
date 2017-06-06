@@ -47,6 +47,9 @@ Operating mode state current
 23. RST Resets the hardware reset pin
 24. GND Power ground
 
+## [Resources for develop in KiCAD](https://github.com/kichMan/JDY-08/tree/master/KiCAD)
+![BLE preview complete](https://cdn.rawgit.com/kichMan/JDY-08/f78f1562/img/resources_complete.png)
+
 ## AT Commands
 1. AT + RST reset M / S -
 2. AT + BOUD serial port baud rate setting M / S - 115200
