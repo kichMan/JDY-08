@@ -47,7 +47,10 @@ Operating mode state current
 23. RST Resets the hardware reset pin
 24. GND Power ground
 
-## [Resources for develop in KiCAD...](https://github.com/kichMan/JDY-08/tree/master/KiCAD)
+## Boards:
+* [Resources](https://github.com/orionrobots/jdy-08-board) a simple breakout board design for development. By [Danny Staple (Orionrobots)](http://orionrobots.co.uk/)
+
+## [Resources for development in KiCAD...](https://github.com/kichMan/JDY-08/tree/master/KiCAD)
 ![BLE preview complete](https://cdn.rawgit.com/kichMan/JDY-08/f78f1562/img/resources_complete.png)
 
 ## AT Commands
