@@ -2,10 +2,9 @@ theme: jekyll-theme-cayman
 
 gems:
   - jekyll-seo-tag
+gem 'jekyll-seo-tag', github: 'jekyll/jekyll-seo-tag'
 
 title: JDY-08 Bluetooth
 
-google_site_verification: ndedVztwbvmq-IfsOTWt-bB6zuRisEGroNJtM6-UIiA
-
-webmaster_verifications:
-    yandex: 1e6c039a8997cb35
+google_site_verification: "ndedVztwbvmq-IfsOTWt-bB6zuRisEGroNJtM6-UIiA"
+yandex_site_verification: "1e6c039a8997cb35"
