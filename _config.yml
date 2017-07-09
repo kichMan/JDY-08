@@ -1,7 +1,12 @@
 theme: jekyll-theme-cayman
 
-gems: ['jekyll-github-metadata', 'jekyll-seo-tag']
-google_verify: "ndedVztwbvmq-IfsOTWt-bB6zuRisEGroNJtM6-UIiA"
+gems:
+- jekyll-seo-tag
+
+webmaster_verifications:
+  google: ndedVztwbvmq-IfsOTWt-bB6zuRisEGroNJtM6-UIiA
+  yandex: 1e6c039a8997cb35
+
 google_site_verification: "ndedVztwbvmq-IfsOTWt-bB6zuRisEGroNJtM6-UIiA"
 yandex_site_verification: "1e6c039a8997cb35"
 
