@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
-webrick:
-  headers:
+
+gems:
+  - jekyll-seo-tag
+
+webmaster_verifications:
     yandex-verification: 1
