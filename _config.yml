@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+webrick:
+  headers:
+    yandex-verification: 1
