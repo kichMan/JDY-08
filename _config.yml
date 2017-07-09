@@ -4,4 +4,4 @@ gems:
   - jekyll-seo-tag
 
 webmaster_verifications:
-    yandex-verification: 1
+    yandex: 1e6c039a8997cb35
