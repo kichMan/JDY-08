@@ -2,16 +2,11 @@ theme: jekyll-theme-cayman
 
 gems:
   - jekyll-seo-tag
-gem 'jekyll-seo-tag', github: 'jekyll/jekyll-seo-tag'
 
 title: JDY-08 Bluetooth
 
 google_site_verification: "ndedVztwbvmq-IfsOTWt-bB6zuRisEGroNJtM6-UIiA"
 yandex_site_verification: "1e6c039a8997cb35"
 
-comments:
-  provider               : "facebook"
-  facebook:
-    appid                : # optional
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+compress_html:
+  clippings: all
