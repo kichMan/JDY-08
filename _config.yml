@@ -4,9 +4,9 @@ gems:
   - jekyll-seo-tag
 
 title: JDY-08 Bluetooth
-
-google_site_verification: "ndedVztwbvmq-IfsOTWt-bB6zuRisEGroNJtM6-UIiA"
-yandex_site_verification: "1e6c039a8997cb35"
+site:
+  google_site_verification: "ndedVztwbvmq-IfsOTWt-bB6zuRisEGroNJtM6-UIiA"
+  yandex_site_verification: "1e6c039a8997cb35"
 
 compress_html:
   clippings: all
