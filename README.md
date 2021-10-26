@@ -198,7 +198,7 @@ Operating mode state current
 
 #### Working in relay control mode
 
-use app "IO_ctrl", when button on bluetooh board pressed, app will receive relevant UUID data, when swtich in app pressed, UUID will send to EB08  
+use app "IO_ctrl", when button on bluetooh board pressed, app will receive relevant UUID data, when switch in app is pressed, UUID will send to EB08  
 
 #### iBeacon mode
 
